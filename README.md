@@ -1,3 +1,6 @@
+![image](https://github.com/leonardojpereira/flutter_ecommerce/assets/87662269/e8770dc9-7dea-4dc7-ade2-3dbfc0ff3204)
+
+
 <h1 align="center">
 
  Nike E-commerce - Flutter 👟
